@@ -1,6 +1,6 @@
 # Work03
 localstorage JavaScript, メモ帳等
-# 課題3 -JavaScript2, localstorage活用(メモ帳アプリ等) -
+# 課題3 -JavaScript2, localstorage(メモ帳アプリ等) -
 
 ## 1. 課題内容（どんな作品か）
 - カウントダウンタイマーアプリ
