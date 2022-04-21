@@ -6,7 +6,7 @@ localstorage JavaScript, メモ帳等
 - カウントダウンタイマーアプリ
 
 ## 2. 工夫した点・こだわった点
-- google fontsの NotoSansJapaneseを引用することができた。(https://fonts.google.com/noto/specimen/Noto+Sans+JP)
+- [Google Fonts](https://fonts.google.com/)の[NotoSansJapanese](https://fonts.google.com/noto/specimen/Noto+Sans+JP)を引用することができた。
 - 動画素材を非商用の学習用素材として背景videoに使わせてもらった（転用不可）
 
 ## 3. 補足
